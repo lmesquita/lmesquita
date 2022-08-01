@@ -32,8 +32,8 @@
 <br>
 
   #### Connect with me
-  <a href="https://www.linkedin.com/in/lucas-cmesquita" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="https://www.linkedin.com/in/lucas-cmesquita" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 
