@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hi, I'm Lucas Mesquita 👋
 
-<!--
-**lmesquita/lmesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a person passionate about challenges
+- :books: I'm currently studying Software Development
+- 🌱 I'm currently learning Typescript
+- 📫 How to reach me: lucas.cas.mesquita@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/lmesquita">
+    <img style="height: 13em" src="https://github-readme-stats.vercel.app/api?username=lmesquita&show_icons=true&theme=dark" />
+    <img style="height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmesquita&layout=compact&theme=dark" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages ans tools
+
+<div>
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+  <img style="height: 30px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+</div>
+<br>
+
+  #### Connect with me
+  <a href="https://www.linkedin.com/in/lucas-cmesquita" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+
+
