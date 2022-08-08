@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Mesquita 👋
 
-### I am a person passionate about challenges
+### I'm a person passionate about challenges
 - :books: I'm currently studying Software Development
 - 🌱 I'm currently learning Typescript
 - 📫 How to reach me: lucas.cas.mesquita@gmail.com
