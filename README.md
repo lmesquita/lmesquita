@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas Mesquita 👋
 
 ### I'm passionate about challenges and technology
-- :computer: Software Development
+- :computer: Software Developer
 - 🌱 I'm currently learning Typescript
 - 📫 How to reach me: lucas.cas.mesquita@gmail.com
 
