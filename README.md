@@ -2,7 +2,7 @@
 
 ### I'm passionate about challenges and technology
 - :computer: Software Developer
-- 🌱 I'm currently learning Typescript
+- 🌱 I'm currently learning Python
 - 📫 How to reach me: lucas.cas.mesquita@gmail.com
 
 <div>
